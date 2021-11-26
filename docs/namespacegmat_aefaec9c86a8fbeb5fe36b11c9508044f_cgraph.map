@@ -1,0 +1,5 @@
+<map id="gmat::matmul" name="gmat::matmul">
+<area shape="rect" id="node1" title="Calculates the product of two matrices and writes it into dest." alt="" coords="5,31,105,57"/>
+<area shape="rect" id="node2" href="$classgmat_1_1matrix.html#a20fdd40b111f911a61b99eb1cbfbf4aa" title="Gets the value of the element at coordinate i,j." alt="" coords="153,5,269,32"/>
+<area shape="rect" id="node3" href="$classgmat_1_1matrix.html#ac9471c0ada301e2028ff7049529698d0" title="Sets the value of the element at coordinate i,j." alt="" coords="153,56,269,83"/>
+</map>

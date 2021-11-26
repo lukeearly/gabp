@@ -1,0 +1,5 @@
+<map id="gmat::matrix&lt; T, m, n &gt;" name="gmat::matrix&lt; T, m, n &gt;">
+<area shape="rect" id="node1" title="matrix class for linear algebra behind inference algorithms." alt="" coords="81,5,235,32"/>
+<area shape="rect" id="node2" href="$classgmat_1_1basematrix.html" title=" " alt="" coords="5,80,148,121"/>
+<area shape="rect" id="node3" href="$classgmat_1_1submatrix.html" title="Class that shadows any matrix object and represents a rectangular selection of it (wrapping at bounda..." alt="" coords="171,80,307,121"/>
+</map>

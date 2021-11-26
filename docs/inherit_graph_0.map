@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classgmat_1_1matrix.html" title="matrix class for linear algebra behind inference algorithms." alt="" coords="5,46,160,73"/>
+<area shape="rect" id="node2" href="$classgmat_1_1basematrix.html" title=" " alt="" coords="208,5,351,47"/>
+<area shape="rect" id="node3" href="$classgmat_1_1submatrix.html" title="Class that shadows any matrix object and represents a rectangular selection of it (wrapping at bounda..." alt="" coords="211,71,347,112"/>
+</map>

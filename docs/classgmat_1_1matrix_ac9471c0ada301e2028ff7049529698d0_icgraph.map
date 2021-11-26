@@ -1,0 +1,7 @@
+<map id="gmat::matrix::set" name="gmat::matrix::set">
+<area shape="rect" id="node1" title="Sets the value of the element at coordinate i,j." alt="" coords="355,31,471,57"/>
+<area shape="rect" id="node2" href="$namespacegmat.html#ad61d10faa0aa35fe53071d07182a0a74" title="Calculates the entrywise sum of two matrices and writes it to dest." alt="" coords="207,5,307,32"/>
+<area shape="rect" id="node4" href="$namespacegmat.html#aefaec9c86a8fbeb5fe36b11c9508044f" title="Calculates the product of two matrices and writes it into dest." alt="" coords="207,56,307,83"/>
+<area shape="rect" id="node3" href="$classgmat_1_1matrix.html#a8d5f92537e8ed83637a80d5846aa2c09" title="Entryise matrix summation." alt="" coords="5,5,159,32"/>
+<area shape="rect" id="node5" href="$classgmat_1_1matrix.html#a0c3f7b2c2fe5f98faffb04e3c915362b" title="Left matrix multiplication." alt="" coords="7,56,157,83"/>
+</map>

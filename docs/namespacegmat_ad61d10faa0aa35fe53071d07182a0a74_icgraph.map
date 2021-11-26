@@ -1,0 +1,4 @@
+<map id="gmat::matadd" name="gmat::matadd">
+<area shape="rect" id="node1" title="Calculates the entrywise sum of two matrices and writes it to dest." alt="" coords="207,5,307,32"/>
+<area shape="rect" id="node2" href="$classgmat_1_1matrix.html#a8d5f92537e8ed83637a80d5846aa2c09" title="Entryise matrix summation." alt="" coords="5,5,159,32"/>
+</map>

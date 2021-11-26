@@ -1,0 +1,4 @@
+<map id="gmat::matmul" name="gmat::matmul">
+<area shape="rect" id="node1" title="Calculates the product of two matrices and writes it into dest." alt="" coords="204,5,304,32"/>
+<area shape="rect" id="node2" href="$classgmat_1_1matrix.html#a0c3f7b2c2fe5f98faffb04e3c915362b" title="Left matrix multiplication." alt="" coords="5,5,156,32"/>
+</map>

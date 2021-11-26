@@ -1,0 +1,4 @@
+<map id="gmat::submatrix::get" name="gmat::submatrix::get">
+<area shape="rect" id="node1" title="Gets the value of the element at coordinate i,j." alt="" coords="243,5,380,32"/>
+<area shape="rect" id="node2" href="$classgmat_1_1basematrix.html#a60cd6c822839187080e5b02d9a03a5bf" title="basematrix constructor from a submatrix." alt="" coords="5,5,195,32"/>
+</map>

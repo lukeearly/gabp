@@ -1,0 +1,6 @@
+<map id="gmat::matrix::operator*" name="gmat::matrix::operator*">
+<area shape="rect" id="node1" title="Left matrix multiplication." alt="" coords="5,31,156,57"/>
+<area shape="rect" id="node2" href="$namespacegmat.html#aefaec9c86a8fbeb5fe36b11c9508044f" title="Calculates the product of two matrices and writes it into dest." alt="" coords="204,31,304,57"/>
+<area shape="rect" id="node3" href="$classgmat_1_1matrix.html#a20fdd40b111f911a61b99eb1cbfbf4aa" title="Gets the value of the element at coordinate i,j." alt="" coords="352,5,468,32"/>
+<area shape="rect" id="node4" href="$classgmat_1_1matrix.html#ac9471c0ada301e2028ff7049529698d0" title="Sets the value of the element at coordinate i,j." alt="" coords="352,56,468,83"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="gmat::matrix::operator+" name="gmat::matrix::operator+">
+<area shape="rect" id="node1" title="Entryise matrix summation." alt="" coords="5,31,159,57"/>
+<area shape="rect" id="node2" href="$namespacegmat.html#ad61d10faa0aa35fe53071d07182a0a74" title="Calculates the entrywise sum of two matrices and writes it to dest." alt="" coords="207,31,307,57"/>
+<area shape="rect" id="node3" href="$classgmat_1_1matrix.html#a20fdd40b111f911a61b99eb1cbfbf4aa" title="Gets the value of the element at coordinate i,j." alt="" coords="355,5,471,32"/>
+<area shape="rect" id="node4" href="$classgmat_1_1matrix.html#ac9471c0ada301e2028ff7049529698d0" title="Sets the value of the element at coordinate i,j." alt="" coords="355,56,471,83"/>
+</map>
