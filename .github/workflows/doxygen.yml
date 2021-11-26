@@ -1,0 +1,31 @@
+name: Doxygen
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  compile-docs:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+
+    - name: Generate Doxygen Documentation
+      uses: mattnotmitt/doxygen-action@v1.3.3
+      with:
+          doxyfile-path: ./Doxyfile
+          working-directory: .
+          enable-latex: true
+          additional-packages: ''
+          
+    - name: Move PDF docs
+      run: sudo mv docs/latex/refman.pdf docs/html/
+    
+    - name: Deploy docs
+      uses: peaceiris/actions-gh-pages@v3
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_dir: ./docs/html
+        destination_dir: ./docs
